@@ -1,0 +1,1 @@
+alert("kutch nahi hai hello ke alaawa");
