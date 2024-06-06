@@ -1,1 +1,2 @@
-alert("kutch nahi hai hello ke alaawa");
+console.log("NEW HELLO");
+console.log("NEW HELLO 2");
